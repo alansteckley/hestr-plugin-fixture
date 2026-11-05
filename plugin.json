@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hestr-native-fixture",
+  "version": "1.0.0",
+  "description": "A fixture for Hestr's native install test."
+}
